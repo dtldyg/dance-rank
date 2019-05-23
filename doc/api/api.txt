@@ -1,0 +1,9 @@
+指定分区视频列表：https://api.bilibili.com/x/web-interface/newlist?rid={rid}&pn={pn}&ps={ps}
+	参数：
+	rid[int]：分区id（宅舞区20）
+	pn[int]：起始页
+	ps[int]：条目数
+
+指定视频统计信息：https://api.bilibili.com/x/web-interface/archive/stat?aid={aid}
+	参数：
+	aid[int64]：av号

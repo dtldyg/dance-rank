@@ -1,0 +1,20 @@
+{
+	"code": 0,
+	"message": "0",
+	"ttl": 1,
+	"data": {
+		"aid": 51912839,
+		"view": 0,
+		"danmaku": 0,
+		"reply": 0,
+		"favorite": 0,
+		"coin": 0,
+		"share": 0,
+		"like": 0,
+		"now_rank": 0,
+		"his_rank": 0,
+		"no_reprint": 1,
+		"copyright": 1,
+		"argue_msg": ""
+	}
+}

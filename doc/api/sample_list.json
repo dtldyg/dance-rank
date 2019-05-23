@@ -1,0 +1,67 @@
+{
+	"code": 0,
+	"message": "0",
+	"ttl": 1,
+	"data": {
+		"archives": [
+			{
+				"aid": 51912839,
+				"videos": 1,
+				"tid": 20,
+				"tname": "宅舞",
+				"copyright": 1,
+				"pic": "http://i0.hdslb.com/bfs/archive/3e122314b10adfca5f9b1c31f4162393f9289619.jpg",
+				"title": "【45秒″可以让你喜欢我嘛】*生日作*可爱or性感  你选择哪一个~",
+				"pubdate": 1557386137,
+				"ctime": 1557386137,
+				"desc": "45秒″够你喜欢上我的时间嘛\n原创、参考振幅  ：sm27364182   {av3054853}\n性感小野猫@胡桃痘子27   \n和基友出门拍照临时决定录的，半个小时扒好，录好\n所以有些动作不标准，见谅丫~\n  然后请忽略我比较野的纹身，临时录舞，没有遮o(╥﹏╥)o\n有没有想要扩列的小伙伴勒~\n这里QQ小窝：2385577807",
+				"state": 1,
+				"attribute": 16512,
+				"duration": 46,
+				"rights": {
+					"bp": 0,
+					"elec": 0,
+					"download": 0,
+					"movie": 0,
+					"pay": 0,
+					"hd5": 0,
+					"no_reprint": 1,
+					"autoplay": 1,
+					"ugc_pay": 0,
+					"is_cooperation": 0,
+					"ugc_pay_preview": 0
+				},
+				"owner": {
+					"mid": 25150286,
+					"name": "W_山栀",
+					"face": "http://i2.hdslb.com/bfs/face/42b93255ad7e95e465797652e1b12c32f3ffa92f.jpg"
+				},
+				"stat": {
+					"aid": 51912839,
+					"view": 5,
+					"danmaku": 0,
+					"reply": 0,
+					"favorite": 0,
+					"coin": 0,
+					"share": 0,
+					"now_rank": 0,
+					"his_rank": 0,
+					"like": 0,
+					"dislike": 0
+				},
+				"dynamic": "#宅舞##舞蹈##45秒#",
+				"cid": 90882882,
+				"dimension": {
+					"width": 1920,
+					"height": 1080,
+					"rotate": 0
+				}
+			}
+		],
+		"page": {
+			"count": 156988,
+			"num": 1,
+			"size": 1
+		}
+	}
+}
